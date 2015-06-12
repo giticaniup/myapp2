@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/libs/Baidu-Frontia-Android-2.0.0.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libs/android-support-v13.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libs/armeabi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libs/asmack-jse-buddycloud-2010.12.11.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libs/com.kfb.a.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libs/com.kfb.c.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libs/ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libs/mips" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libs/x86" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/menu_f.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/menu_n.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/drawable-ldpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/drawable-mdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/drawable-xhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/layout/advise.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/res/layout/uphead.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/example/myapp2/MyActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/myapp2/advise/DialogUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/myapp2/advise/JSONParser.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
